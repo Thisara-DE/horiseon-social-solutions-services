@@ -9,6 +9,7 @@ body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif, 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
+/* Header styling start */
 header {
     padding: 20px;    
     background-color: #2a607c;
@@ -44,13 +45,9 @@ header a {
     color: #ffffff;
     text-decoration: none;
 }
+/* Header styling start */
 
-/*
-p {
-    font-size: 16px;
-}
-*/
-
+/* hero styling start */
 .hero {
     height: 800px;
     width: 100%;
@@ -60,9 +57,9 @@ p {
     background-position: center;
     position: block;
 }
+/* hero styling end */
 
 /* portfolio styling start */
-
 .portfolio {
     width: 75%;
     display: inline-block;
@@ -104,6 +101,7 @@ p {
 
 /* portfolio styling end */
 
+/* benefits section styling start */
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -133,7 +131,9 @@ p {
 .benefit-item p {
     font-size: 16px;
 }
+/* benefits section styling end */
 
+/* footer styling start */
 footer {
     padding: 30px;
     clear: both;    
@@ -143,3 +143,4 @@ footer {
 footer h2 {
     font-size: 20px;
 }
+/* footer styling end */
