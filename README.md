@@ -17,6 +17,8 @@ the website,
 ## Website
 https://thisaramallawaarachchige.github.io/horiseon-social-solutions-services/
 
+<img src="./assets/final-product.png" alt="website-screenshot"/>
+
 ## Contribution
 Made with ❤️ by Thisara MA
 
