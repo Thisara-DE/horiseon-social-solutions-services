@@ -10,7 +10,7 @@ the website,
 * alt attributes for graphical elements were accessible and
 * the source code has clear notes and comments.
 
-## Built with
+## Built with 🛠️
 * HTML
 * CSS
 
